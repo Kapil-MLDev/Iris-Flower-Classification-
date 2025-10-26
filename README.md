@@ -97,7 +97,7 @@ This project leverages machine learning algorithms to classify Iris flowers into
 |-------|-------------------|---------------|
 | Random Forest | 95.83% | 96.67% |
 | Logistic Regression | 95.00% | 96.67% |
-| Decision Tree | 95.00% | 93.33% |
+| Decision Tree | 93.33% | 96.67% |
 | SVM | 96.67% | 96.67% |
 
 ---
